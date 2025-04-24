@@ -1,20 +1,20 @@
 {
   "metaData": {
-    "title" : "Tushi | Minimal NextJS Blog Template",
-    "description" : "Tushi - a minimal nextjs blog template",
-    "author" : "Platol",
-    "keyword" : "blog, nextjs blog, react, nextjs, next.js, next js, tushi, minimal",
-    "ogImage" : "/images/ogimage.jpg"
+    "title": "Alldadstalk | Blog",
+		"description": "Alldadstalk - a Dad in the City Blog by Justin",
+		"author": "Justin",
+		"keyword": "parenting, dad, city, London, UK, tips, tech, review, lifestyle",
+		"ogImage": "https://alldadstalk.com/images/ogimage.jpg"
   },
-  "baseURL" : "https://tushi-nextjs.vercel.app/",
+  "baseURL": "https://alldadstalk.com/",
   "logo" : "/images/logo.png",
   "logo_light" : "/images/logo-light.png",
-  "logoText" : "Tushi",
-  "favicon" : "/images/favicon.png",
+  "logoText": "Alldadstalk",
+  "favicon": "/favicon/favicon.png",
   "postPerPage" : 6,
   "homeTwoPostPerPage" : 4,
 
-  "copyright" : "© 2023 Tushi. All rights reserved.",
+  "copyright": "© 2025 Alldadstalk. All rights reserved.",
 
   "socialLinks" : [
     {

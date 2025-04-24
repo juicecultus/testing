@@ -5,12 +5,12 @@ contact:
   title: "We'd love to hear from you."
   content: "We'll answer every question you might have. Look forward to hearing from you"
 
-  phone: "+98 02 296 4902"
-  email: "hellotushi@gmail.com"
+  phone: "+44 7521 808 508"
+  email: "hello@alldadstalk.com"
 
   contactForm:
-    email: "platoltheme@gmail.com"
-    mailSubject: "Message form Tushi Next.js!"
+    email: "hello@alldadstalk.com"
+    mailSubject: "Message form Alldadstalk Blog!"
     successMessage: "Thank you for your message! Please be patient. <br/> I will get back to you shortly."
     errorMessage: "Something went wrong. Please try again."
 ---

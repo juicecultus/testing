@@ -2,17 +2,7 @@
   "mainMenu": [
     {
       "name": "Home",
-      "link": "#",
-      "submenu": [
-        {
-          "name": "Home",
-          "link": "/"
-        },
-        {
-          "name": "Home Minimal",
-          "link": "/home-2"
-        }
-      ]
+      "link": "/"
     },
     {
       "name": "Featured",
@@ -39,36 +29,12 @@
           "link": "/author"
         },
         {
-          "name": "Author Single",
-          "link": "/author/ann-monika"
-        },
-        {
-          "name": "Elements",
-          "link": "/blog/elements"
-        },
-        {
           "name": "Tags",
           "link": "/tags"
         },
         {
           "name": "Categories",
           "link": "/categories"
-        },
-        {
-          "name": "Tag Single",
-          "link": "/tags/lifestyle"
-        },
-        {
-          "name": "Category Single",
-          "link": "/categories/tech"
-        },
-        {
-          "name": "Privacy",
-          "link": "/privacy"
-        },
-        {
-          "name": "Terms of service",
-          "link": "/terms-of-service"
         }
       ]
     },

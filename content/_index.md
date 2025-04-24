@@ -1,8 +1,8 @@
 ---
 # Banner
 banner:
-  title: "Latest News <br/> Updates and Tips"
-  subtitle: "Welcome to the blog, writen by professionals; It's connect people."
+  title: "Parenting is personal."
+  subtitle: "So is this blog."
 
 
 # Featured Post

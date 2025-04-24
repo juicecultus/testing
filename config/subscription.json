@@ -1,8 +1,8 @@
 {
   "title" : "Subscribe to our monthly newsletter",
-  "subtitle" : "Stay up-to-date about latest tech and new world. Unsubscribe at anytime!",
-  "mailChimpFormAction" : "https://gmail.us20.list-manage.com/subscribe/post?u=92641572a6c6ec43da15feed0&amp;id=d28bb2454f",
-  "mailChimpFormName" : "b_92641572a6c6ec43da15feed0_d28bb2454f",
+  "subtitle" : "Get our latest posts delivered right to your inbox",
+  "mailChimpFormAction": "https://alldadstalk.us14.list-manage.com/subscribe/post?u=981b200cf7e63201f1061e5ba&amp;id=a26cbec7ce&amp;f_id=000d93e0f0",
+	"mailChimpFormName": "b_981b200cf7e63201f1061e5ba_a26cbec7ce",
   "formNamePlaceholder" : "Full Name",
   "formEmailPlaceholder" : "Your email address *",
   "formButtonLabel" : "Subscribe Now"
