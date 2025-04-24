@@ -8,6 +8,8 @@ image: '/images/blog/cubo-ai-baby-monitor-cover.webp'
 date: '2020-10-08T17:55:40.452Z'
 categories: ['Reviews', 'Tech']
 tags: ['Baby', 'Cameras', 'AI']
+featured: false
+postOfTheMonth: false
 ---
 
 I hear “smart” so very often, especially in the context of technology so when I saw it being brought up in the context of baby care I must admit I was a little bit intrigued.

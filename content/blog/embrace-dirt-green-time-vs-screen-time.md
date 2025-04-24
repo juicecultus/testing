@@ -8,6 +8,8 @@ image: '/images/blog/embrace-dirt/embrace-dirt-cover.webp'
 date: '2018-11-01T05:35:07.000Z'
 categories: ['Activities', 'Parenting']
 tags: ['Outdoor', 'Kids']
+featured: false
+postOfTheMonth: false
 ---
 
 I don’t remember my parents’ old TV much (except that it was black & white and rather dusty), but I do remember that the entire family was watching one movie each week. As a child, Friday was my only movie night and half way through I was always falling asleep.

@@ -8,6 +8,8 @@ image: '/images/blog/dads-at-the-bubble-london-cover.webp'
 date: '2018-01-20T17:55:40.452Z'
 categories: ['Events', 'Fashion']
 tags: ['Baby', 'Gear', 'Exhibition']
+featured: false
+postOfTheMonth: false
 ---
 
 Truth is I don’t know much about children fashion or baby gear, but when it comes to conducting research in any kind of area, I take it as a challenge. Recently, my wife Aly @allmumstalk took me out on what she called ‘a family date’ (which usually means either work event, reviews, or a photoshoot for her blog).

@@ -8,6 +8,8 @@ image: '/images/blog/thule-bike-rack-for-families-cover.webp'
 date: '2019-10-22T17:55:40.452Z'
 categories: ['Reviews', 'Gear']
 tags: ['Outdoor', 'Thule', 'Cycling']
+featured: false
+postOfTheMonth: false
 ---
 
 > Towbar bike rack dream right here!

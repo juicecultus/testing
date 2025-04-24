@@ -8,6 +8,8 @@ image: '/images/blog/scooting-into-the-future-cover.webp'
 date: '2019-10-22T02:34:02.000Z'
 categories: ['Reviews', 'Gear']
 tags: ['Outdoor', 'Scooters', 'Electric']
+featured: false
+postOfTheMonth: false
 ---
 
 > Every once in a while a revolutionary product comes along that changes everything. (Steve Jobs)

@@ -8,6 +8,8 @@ postOfTheMonth: true
 author: "Alexander Hipp"
 categories: ["Culture"]
 tags: ["Culture", "Lifestyle"]
+featured: false
+postOfTheMonth: false
 ---
 
 It’s no secret that the covid pandemic has had a huge impact on the way that businesses are run - but there’s also been a switch in the way that people, and HR leaders, approach work. Employees have had time and space to reassess their lives and a lot of them have found they much prefer the work-life balance that remote models have created. Some of this attitude is at the core of the ‘Great Resignation’ trend that we’re seeing creeping closer to our shores. 

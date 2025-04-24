@@ -8,6 +8,8 @@ image: '/images/blog/dads-in-the-kitchen-the-hello-fresh-flavour-generator-cover
 date: '2017-06-28T17:55:40.452Z'
 categories: ['Reviews', 'Kitchen']
 tags: ['Food', 'Cuisine', 'Delivery']
+featured: false
+postOfTheMonth: false
 ---
 
 I’m not sure I’ve shared much about my busy lifestyle and (according to my wife boring) work as a Finance lawyer, unless you’ve been following my journey as a working dad on [Instagram](https://www.instagram.com/alldadstalk/). You’d know then that as soon as I escape the intense board meetings or way-too-long conference calls and my need-more-colour office walls (no matter how cool my view there on the 21st floor is) I rush back home to a fireball 3 year toddler, a third trimester bun in the oven and my cravings fighter wife. I often wonder if they really miss spending their evenings with me or if they miss my exceptional cooking skills more.

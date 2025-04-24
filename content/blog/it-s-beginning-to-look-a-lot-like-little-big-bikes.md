@@ -8,6 +8,8 @@ image: '/images/blog/it-s-beginning-to-look-a-lot-like-little-big-bikes-cover.we
 date: '2017-12-11T17:55:40.452Z'
 categories: ['Reviews', 'Gear']
 tags: ['Outdoor', 'Kids', 'Cycling']
+featured: false
+postOfTheMonth: false
 ---
 
 If you’re still shopping for your kid’s Christmas gift, here’s a review that might help you decide easier, without having to undergo endless trips to the overcrowded Disney shops and way too busy malls.

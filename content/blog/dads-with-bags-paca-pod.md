@@ -8,6 +8,8 @@ image: '/images/blog/dads-with-bags-paca-pod-cover.webp'
 date: '2018-02-13T17:55:40.452Z'
 categories: ['Reviews', 'Lifestyle']
 tags: ['Bags', 'Fashion', 'Baby']
+featured: false
+postOfTheMonth: false
 ---
 
 What I have learnt from my first born experience is that you don’t need thousands of baby products to survive a trip to the playground, but if you don’t tick everything on the very essentials list, well, you’re in trouble. A clever changing bag is one of those mandatory essentials organiser which could make parents’ life much easier.

@@ -8,6 +8,8 @@ image: '/images/blog/today-s-education-tomorrow-s-fine-generation-cover.webp'
 date: '2018-04-13T17:55:40.452Z'
 categories: ['Reviews', 'Lifestyle']
 tags: ['Education', 'Services']
+featured: false
+postOfTheMonth: false
 ---
 
 A SOUTHBANK INTERNATIONAL SCHOOL review. (written in partnership with Southbank International School)

@@ -8,6 +8,8 @@ image: '/images/blog/timing-childhood-a-daniel-wellington-watch-review-cover.web
 date: '2017-06-24T17:55:40.452Z'
 categories: ['Reviews', 'Lifestyle']
 tags: ['Watches', 'Fashion']
+featured: false
+postOfTheMonth: false
 ---
 
 > WE HAVE SO MUCH TIME AND SO LITTLE TO DO. STRIKE THAT, REVERSE IT!

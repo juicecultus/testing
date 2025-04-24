@@ -8,6 +8,8 @@ image: '/images/blog/cornwall-travels-eden-project-cover.webp'
 date: '2018-10-31T17:55:40.452Z'
 categories: ['Reviews', 'Travel']
 tags: ['Outdoor', 'Cornwall']
+featured: false
+postOfTheMonth: false
 ---
 
 Not long ago 😀 (exactly one year ago!) my other half packed up a light suitcase (not light enough according to my packing up male standards) and we hit the road towards Cornwall.

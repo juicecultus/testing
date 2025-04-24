@@ -8,6 +8,8 @@ image: '/images/blog/fireangel-pro/Fireangel_Cover.webp'
 date: '2022-12-12T21:32:40.452Z'
 categories: ['Reviews']
 tags: ['Home', 'Essentials', 'Safety']
+featured: false
+postOfTheMonth: false
 ---
 
 As a dad of three, I think often of the little ones’ safety and security, including when we’re in our home. As a techie, I’m always tinkering with innovative products and today is all about the <a href="https://www.fireangel.co.uk/pro-connected/" target="_blank">FireAngel Pro Connected</a> smart alarm system\* 🙌🏻.

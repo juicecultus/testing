@@ -8,6 +8,8 @@ image: '/images/blog/in-crust-we-trust-and-in-the-ooni-outdoor-oven-cover.webp'
 date: '2019-06-04T17:55:40.452Z'
 categories: ['Reviews', 'Kitchen']
 tags: ['Outdoor', 'Gear', 'Cuisine']
+featured: false
+postOfTheMonth: false
 ---
 
 Almost every Sunday I’m taking my little ones to the farmers’ market. It’s not much for the fresh veggies, occasional live music or for hoping to run again into my celebrity neighbours (see you on Sunday, Thandie!;) but for best pizza served here in this tiny corner of London, made by two true Napolitano guys and their tiny fire oven on wheels.

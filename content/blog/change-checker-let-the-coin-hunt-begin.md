@@ -8,6 +8,8 @@ image: '/images/blog/change-checker-let-the-coin-hunt-begin-cover.webp'
 date: '2019-05-31T17:55:40.452Z'
 categories: ['Reviews']
 tags: ['Hobbies', 'Collectibles']
+featured: false
+postOfTheMonth: false
 ---
 
 I remember the first time someone asked me (casually) in a job interview: so ... what is your hobby? I answered quickly: I collect coins. The conversation that ensued is still pretty vivid in my head. I mean ... what were the odds (I was thinking at the time) that both the interviewer and I have the same hobby. It just happened that we got to spend the next 10 minutes discussing the topic. It quickly built a bridge in the most touching way I could think of. Two people from different cultures and unique backgrounds converging by means of a hobby. It had the desired effect: braking the ice of what is otherwise a very formal job interview and allowed us to discover more of what we are on the inside.

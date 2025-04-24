@@ -8,6 +8,8 @@ image: '/images/blog/our-time-is-now-cover.webp'
 date: '2018-02-05T17:55:40.452Z'
 categories: ['Reviews', 'Lifestyle']
 tags: ['Watches', 'Fashion']
+featured: false
+postOfTheMonth: false
 ---
 
 It’s been 11 years since Aly and I were both dreamy students with lots of plans and no clue about how far we’d get together. We didn’t even think about co-sleeping dramas, teething, grumpy babies, mushy pea stains, witty poo talks or nursing pads. Neddless to say I never thought I’d become the man spending weeks researching on baby carriers and changing bags (now I’ve got two baby changing bags!). But here I am now talking buggy life and eco diapers…

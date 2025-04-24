@@ -8,6 +8,8 @@ image: '/images/blog/five-things-i-ve-learned-about-the-nursing-mother-of-my-chi
 date: '2016-04-16T17:55:40.452Z'
 categories: ['Lifestyle', 'Parenting']
 tags: ['Motherhood', 'Kids']
+featured: false
+postOfTheMonth: false
 ---
 
 What we unmistakably learn while becoming mature adults is that parenthood is an un-smooth, unrehearsed and, quite often, a pretty unplanned game changer. Well, at least this is what the latest two years of fatherhood have managed to teach me. The pressure is even harsher as the new addition requires not only constant energy and pretty much all your bank resources, but the most invaluable tribute of them all: time.
