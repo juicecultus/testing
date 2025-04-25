@@ -8,7 +8,7 @@ image: '/images/blog/fireangel-pro/Fireangel_Cover.webp'
 date: '2022-12-12T21:32:40.452Z'
 categories: ['Reviews']
 tags: ['Home', 'Essentials', 'Safety']
-featured: false
+featured: true
 postOfTheMonth: false
 ---
 

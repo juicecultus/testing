@@ -8,7 +8,7 @@ image: '/images/blog/it-s-beginning-to-look-a-lot-like-little-big-bikes-cover.we
 date: '2017-12-11T17:55:40.452Z'
 categories: ['Reviews', 'Gear']
 tags: ['Outdoor', 'Kids', 'Cycling']
-featured: false
+featured: true
 postOfTheMonth: false
 ---
 

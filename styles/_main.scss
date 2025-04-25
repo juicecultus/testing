@@ -1,3 +1,7 @@
+@use "sass:color";
+@use "mixins";
+@use "variables";
+
 .banner {
   padding: 100px 0 120px;
   .title {
@@ -41,7 +45,7 @@
     width: 100%;
     top: 0;
     left: 0;
-    background-color: $black;
+    background-color: variables.$black;
     opacity: 0.5;
     z-index: -1;
     transition: opacity 0.3s;
@@ -88,7 +92,7 @@ article {
 .post-badge {
   position: absolute;
   top: 0;
-  background: rgba($color-primary, 0.2);
+  background: rgba(variables.$color-primary, 0.2);
   padding: 12px 10px;
   text-transform: uppercase;
   font-size: 12px;
@@ -98,13 +102,13 @@ article {
 }
 .dark {
   .post-badge {
-    background: rgba($white, 0.2);
+    background: rgba(variables.$white, 0.2);
   }
 }
 
 // post-meta
 .post-meta {
-  @include mobile {
+  @include mixins.mobile {
     font-size: 95%;
   }
   > li {
@@ -112,7 +116,7 @@ article {
     vertical-align: middle;
   }
   a {
-    color: $gray;
+    color: variables.$gray;
   }
   .list-inline-item:not(:last-child) {
     margin-right: 0.75rem;
@@ -121,7 +125,7 @@ article {
 .dark {
   .post-meta {
     a {
-      color: rgba($white, 0.8);
+      color: rgba(variables.$white, 0.8);
     }
   }
 }
@@ -132,11 +136,11 @@ article {
     margin-right: 0.5rem;
   }
   a {
-    color: rgba($gray, 0.8);
-    border: 1px solid rgba($gray, 0);
+    color: rgba(variables.$gray, 0.8);
+    border: 1px solid rgba(variables.$gray, 0);
     padding: 4px 12px;
     transition: 0.3s;
-    @include mobile {
+    @include mixins.mobile {
       font-size: 15px;
     }
     sup {
@@ -147,8 +151,8 @@ article {
       transition: 0.3s;
     }
     &:hover {
-      color: $dark;
-      border: 1px solid rgba($dark, 0.2);
+      color: variables.$dark;
+      border: 1px solid rgba(variables.$dark, 0.2);
       .icon svg {
         transform: scale(1.2) translateX(2px);
         opacity: 1 !important;
@@ -156,13 +160,13 @@ article {
     }
   }
   &-active a {
-    border: 1px solid rgba($gray, 0.075);
+    border: 1px solid rgba(variables.$gray, 0.075);
   }
   .col-6 {
-    @include mobile-xs {
+    @include mixins.mobile-xs {
       flex: 0 0 100%;
     }
-    @include mobile {
+    @include mixins.mobile {
       a {
         font-size: 17px;
       }
@@ -171,11 +175,11 @@ article {
 }
 .dark {
   .taxonomy-lists a {
-    color: rgba($white, 0.8);
-    border: 1px solid rgba($white, 0.2);
+    color: rgba(variables.$white, 0.8);
+    border: 1px solid rgba(variables.$white, 0.2);
     &:hover {
-      color: $white;
-      border: 1px solid rgba($white, 0.2);
+      color: variables.$white;
+      border: 1px solid rgba(variables.$white, 0.2);
     }
   }
 }
@@ -192,12 +196,12 @@ article {
 // newsletter-block style
 .newsletter-block {
   padding: 100px 0;
-  @include tablet {
+  @include mixins.tablet {
     padding: 70px 0;
   }
   .input-group-text,
   .form-control {
-    background-color: $white;
+    background-color: variables.$white;
     margin-bottom: 20px;
   }
   .input-group-text {
@@ -209,30 +213,30 @@ article {
     &:focus {
       ~ .input-group-append {
         .input-group-text {
-          border-color: $dark;
-          background-color: $dark;
-          color: $white;
+          border-color: variables.$dark;
+          background-color: variables.$dark;
+          color: variables.$white;
         }
       }
     }
   }
   ::-webkit-input-placeholder {
-    color: rgba($dark, 0.7);
+    color: rgba(variables.$dark, 0.7);
   }
   :-ms-input-placeholder {
-    color: rgba($dark, 0.7);
+    color: rgba(variables.$dark, 0.7);
   }
   ::placeholder {
-    color: rgba($dark, 0.7);
+    color: rgba(variables.$dark, 0.7);
   }
   button.input-group-text {
     font-weight: 500;
-    color: $dark;
+    color: variables.$dark;
     background-color: #f5f5f5;
     &:hover {
-      border-color: $dark;
-      background-color: $dark;
-      color: $white;
+      border-color: variables.$dark;
+      background-color: variables.$dark;
+      color: variables.$white;
     }
   }
 }
@@ -240,36 +244,36 @@ article {
   .newsletter-block {
     .input-group-text,
     .form-control {
-      color: $white;
-      background-color: $muted-dark;
+      color: variables.$white;
+      background-color: variables.$muted-dark;
     }
     .form-control {
       &:focus {
         ~ .input-group-append {
           .input-group-text {
-            border-color: $white;
-            background-color: $white;
-            color: $muted-dark;
+            border-color: variables.$white;
+            background-color: variables.$white;
+            color: variables.$muted-dark;
           }
         }
       }
     }
     ::-webkit-input-placeholder {
-      color: rgba($white, 0.7);
+      color: rgba(variables.$white, 0.7);
     }
     :-ms-input-placeholder {
-      color: rgba($white, 0.7);
+      color: rgba(variables.$white, 0.7);
     }
     ::placeholder {
-      color: rgba($white, 0.7);
+      color: rgba(variables.$white, 0.7);
     }
     button.input-group-text {
-      color: $white;
-      background-color: darken($muted-dark, 4);
+      color: variables.$white;
+      background-color: color.adjust(variables.$muted-dark, $lightness: -4);
       &:hover {
-        border-color: $white;
-        background-color: $white;
-        color: $dark;
+        border-color: variables.$white;
+        background-color: variables.$white;
+        color: variables.$dark;
       }
     }
   }
@@ -304,7 +308,7 @@ article {
     }
   }
   a:hover {
-    background-color: $white;
+    background-color: variables.$white;
     span {
       border-color: transparent !important;
     }
@@ -312,16 +316,16 @@ article {
 }
 .dark {
   .border {
-    border-color: lighten($muted-dark, 8) !important;
+    border-color: color.adjust(variables.$muted-dark, $lightness: 8) !important;
   }
   .archive-block {
     .archive-post-item {
       span {
-        background-color: $muted-dark;
+        background-color: variables.$muted-dark;
       }
     }
     a:hover {
-      background-color: $muted-dark;
+      background-color: variables.$muted-dark;
     }
   }
 }
@@ -329,24 +333,24 @@ article {
 // Footer
 .footer-bottom {
   padding: 30px 0;
-  @include desktop {
+  @include mixins.desktop {
     padding: 40px 0;
   }
 }
 .copyright-text {
-  color: rgba($dark, 0.7);
+  color: rgba(variables.$dark, 0.7);
   a {
-    color: rgba($dark, 0.7);
+    color: rgba(variables.$dark, 0.7);
   }
 }
 .dark {
   .border-bottom {
-    border-color: lighten($muted-dark, 8) !important;
+    border-color: color.adjust(variables.$muted-dark, $lightness: 8) !important;
   }
   .copyright-text {
-    color: rgba($white, 0.7);
+    color: rgba(variables.$white, 0.7);
     a {
-      color: rgba($white, 0.7);
+      color: rgba(variables.$white, 0.7);
     }
   }
 }

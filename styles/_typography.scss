@@ -1,24 +1,27 @@
+@use "mixins";
+@use "variables";
+
 h1,
 .h1 {
   font-size: 56px;
-  @include desktop-xl {
+  @include mixins.desktop-xl {
     font-size: 48px;
   }
-  @include desktop {
+  @include mixins.desktop {
     font-size: 42px;
   }
 }
 h2,
 .h2 {
   font-size: 38px;
-  @include desktop {
+  @include mixins.desktop {
     font-size: 34px;
   }
 }
 h3,
 .h3 {
   font-size: 30px;
-  @include desktop {
+  @include mixins.desktop {
     font-size: 28px;
   }
 }
@@ -47,7 +50,7 @@ h5,
 h6,
 .h6 {
   line-height: 1.4;
-  color: $dark;
+  color: variables.$dark;
   font-weight: 500;
 }
 .dark {
@@ -63,7 +66,7 @@ h6,
   .h5,
   h6,
   .h6 {
-    color: $white;
+    color: variables.$white;
   }
 }
 h1,
@@ -75,18 +78,18 @@ button:focus {
   outline: 0;
 }
 a {
-  color: $black;
+  color: variables.$black;
   transition: all 0.3s;
   text-decoration: none;
   &:hover {
-    color: $black;
+    color: variables.$black;
   }
 }
 .dark {
   a {
-    color: $white;
+    color: variables.$white;
     &:hover {
-      color: $white;
+      color: variables.$white;
     }
   }
 }
@@ -97,7 +100,7 @@ li {
   list-style-position: inside;
 }
 .lead {
-  @include tablet {
+  @include mixins.tablet {
     font-size: 16px;
   }
 }

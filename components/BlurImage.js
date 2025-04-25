@@ -18,7 +18,7 @@ const BlurImage = ({ src, alt, className, ...props }) => {
         className,
         isLoading ? "blur" : ""
       )}
-      onLoadingComplete={() => setLoading(false)}
+      onLoad={() => setLoading(false)}
     />
   );
 };

@@ -8,7 +8,7 @@ image: '/images/blog/change-checker-let-the-coin-hunt-begin-cover.webp'
 date: '2019-05-31T17:55:40.452Z'
 categories: ['Reviews']
 tags: ['Hobbies', 'Collectibles']
-featured: false
+featured: true
 postOfTheMonth: false
 ---
 

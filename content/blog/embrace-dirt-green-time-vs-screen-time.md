@@ -8,7 +8,7 @@ image: '/images/blog/embrace-dirt/embrace-dirt-cover.webp'
 date: '2018-11-01T05:35:07.000Z'
 categories: ['Activities', 'Parenting']
 tags: ['Outdoor', 'Kids']
-featured: false
+featured: true
 postOfTheMonth: false
 ---
 
