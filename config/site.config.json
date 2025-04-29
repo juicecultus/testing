@@ -8,7 +8,7 @@
   },
   "baseURL": "https://alldadstalk.com/",
   "logo" : "/images/logo.png",
-  "logo_light" : "/images/logo-light.png",
+  "logo_light" : "/images/logo.png",
   "logoText": "Alldadstalk",
   "favicon": "/favicon/favicon.png",
   "postPerPage" : 6,
