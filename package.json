@@ -1,9 +1,9 @@
 {
-  "name": "tushi-nextjs",
+  "name": "alldadstalk-nextjs",
   "author": "Platol",
-  "description": "Packages For Tushi React Nextjs Blog Template",
-  "version": "2.0.0",
-  "license": "Themeforest Standard Licence",
+  "description": "Packages For AllDadsTalk React Nextjs Blog Template",
+  "version": "1.0.0",
+  "license": "MIT",
   "private": true,
   "scripts": {
     "dev": "node libs/generate-posts-data.js && next-remote-watch ./content",

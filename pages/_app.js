@@ -14,7 +14,7 @@ const dm_sans = DM_Sans({
   subsets: ["latin"],
 });
 
-export default function TushiApp({ Component, pageProps }) {
+export default function AllDadsTalkApp({ Component, pageProps }) {
   const [searchOpen, setSearchOpen] = useState();
 
   useEffect(() => {

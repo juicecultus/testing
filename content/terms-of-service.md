@@ -10,9 +10,9 @@ description: "The Terms of Service"
 
 **Short version:** We use these basic terms throughout the agreement, and they have specific meanings. You should know what we mean when we use each of the terms. There's not going to be a test on it, but it's still useful information.
 
-1. An "Account" represents your legal relationship with Tushi. A “Personal Account” represents an individual User’s authorization to log in to and use the Service and serves as a User’s identity on Tushi. “Organizations” are shared workspaces that may be associated with a single entity or with one or more Users where multiple Users can collaborate across many projects at once. A Personal Account can be a member of any number of Organizations.
+1. An "Account" represents your legal relationship with AllDadsTalk. A “Personal Account” represents an individual User’s authorization to log in to and use the Service and serves as a User’s identity on AllDadsTalk. “Organizations” are shared workspaces that may be associated with a single entity or with one or more Users where multiple Users can collaborate across many projects at once. A Personal Account can be a member of any number of Organizations.
 
-1. The “Agreement” refers, collectively, to all the terms, conditions, notices contained or referenced in this document (the “Terms of Service” or the "Terms") and all other operating rules, policies (including the Tushi Privacy Statement, available at [privacy](/privacy)) and procedures that we may publish from time to time on the Website. Most of our site policies are available at [privacy](/privacy).
+1. The “Agreement” refers, collectively, to all the terms, conditions, notices contained or referenced in this document (the “Terms of Service” or the "Terms") and all other operating rules, policies (including the AllDadsTalk Privacy Statement, available at [privacy](/privacy)) and procedures that we may publish from time to time on the Website. Most of our site policies are available at [privacy](/privacy).
 
 1. "Beta Previews" mean software, services, or features identified as alpha, beta, preview, early access, or evaluation, or words or phrases with similar meanings.
 
