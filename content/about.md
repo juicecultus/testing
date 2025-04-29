@@ -1,28 +1,32 @@
 ---
-title: "About Us"
+title: "About AllDadsTalk"
 image: "/images/about-image.jpg"
 
 ### About Intro
 intro: |
-  ### Tushi is a media network that builds and operates.
+  ### Welcome to AllDadsTalk!
   
-  We do this with the aim of creating the future of media. The future of media is one that is disruptive, agile, and credible. It embraces diversity, creates a positive impact, and leaves its audience in a better place than where they were before. We advocate for a media that embraces this and we embody.
+  AllDadsTalk is a space for modern dads who want to share, learn, and connect. From the joys and challenges of fatherhood to honest conversations about parenting, work-life balance, and everything in between, this is where real stories are told.
+  
+  As an Instagram-first blogger, I believe in the power of community and authenticity. Here you'll find tips, laughs, and a few confessions from a dad navigating the ups and downs of raising kids in today’s world. Join me as we celebrate fatherhood, break stereotypes, and build a supportive tribe, one post at a time.
 
-### Our Story
+### My Story
 ourStory:
-  title: "Our Story"
+  title: "My Story"
 
   leftContent: |
-    The truth is important to us, so our work must always be trustworthy and demonstrate integrity.  We push ourselves to move fast and not be afraid to change things up.
+    Hi, I'm the dad behind AllDadsTalk! My journey into fatherhood changed everything: my priorities, my perspective, and my sense of humor. I started this blog to document the real moments: the messy, the magical, and the mundane.
   
-    We actively encourage fresh ideas and creative ways of doing things better.
+    Whether it’s sharing parenting hacks, product reviews, or just a daily dose of dad life, my goal is to inspire and support other dads (and moms!) who are on this wild ride. Let’s learn from each other and enjoy the adventure together.
 
   rightContent: |
-    Our work must positively impact the lives. We come from different backgrounds and are varied in our thoughts and beliefs. We respect diversity and our work reflects that.
+    AllDadsTalk is about more than just parenting, it's about community. I love connecting with fellow dads and parents from all walks of life. Your stories, questions, and feedback shape this space.
+  
+    Follow along on Instagram @AllDadsTalk for daily updates, behind-the-scenes, and plenty of dad jokes. Thanks for being here and for making this journey even more meaningful.
 
-# Our Authors
+# Connect
 ourAuthors:
-  title: "Our Authors"
-  linkLabel: "All Authors"
- 
+  title: "Join the Conversation"
+  linkLabel: "Follow on Instagram"
+
 ---

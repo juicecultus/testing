@@ -269,7 +269,7 @@ article {
     }
     button.input-group-text {
       color: variables.$white;
-      background-color: color.adjust(variables.$muted-dark, $lightness: -4);
+      background-color: color.adjust(variables.$muted-dark, $lightness: -4%);
       &:hover {
         border-color: variables.$white;
         background-color: variables.$white;
@@ -316,7 +316,7 @@ article {
 }
 .dark {
   .border {
-    border-color: color.adjust(variables.$muted-dark, $lightness: 8) !important;
+    border-color: color.adjust(variables.$muted-dark, $lightness: 8%) !important;
   }
   .archive-block {
     .archive-post-item {
@@ -345,7 +345,7 @@ article {
 }
 .dark {
   .border-bottom {
-    border-color: color.adjust(variables.$muted-dark, $lightness: 8) !important;
+    border-color: color.adjust(variables.$muted-dark, $lightness: 8%) !important;
   }
   .copyright-text {
     color: rgba(variables.$white, 0.7);

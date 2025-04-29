@@ -205,8 +205,8 @@ main {
       &:active,
       &:focus {
         color: variables.$white;
-        background-color: color.adjust(variables.$muted-dark, $lightness: 2) !important;
-        border-color: color.adjust(variables.$muted-dark, $lightness: 2) !important;
+        background-color: color.adjust(variables.$muted-dark, $lightness: 2%) !important;
+        border-color: color.adjust(variables.$muted-dark, $lightness: 2%) !important;
       }
     }
     &.btn-dark {
@@ -511,7 +511,7 @@ button.input-group-text {
   color: variables.$color-primary !important;
 }
 a.text-primary:hover {
-  color: color.adjust(variables.$color-primary, $lightness: -10) !important;
+  color: color.adjust(variables.$color-primary, $lightness: -10%) !important;
 }
 .text-dark {
   color: variables.$dark;
@@ -584,7 +584,7 @@ a.text-gray:hover {
     box-shadow: rgba(0, 0, 0, 0.2) 0 6px 19px !important;
   }
   .border-top {
-    border-top-color: color.adjust(variables.$muted-dark, $lightness: 5) !important;
+    border-top-color: color.adjust(variables.$muted-dark, $lightness: 5%) !important;
   }
 }
 .fw-medium {
@@ -803,7 +803,7 @@ h1.page-not-found-title {
     }
   }
   tbody {
-    background: color.adjust(variables.$light, $lightness: 5);
+    background: color.adjust(variables.$light, $lightness: 5%);
     margin-bottom: 0;
   }
 
@@ -914,7 +914,7 @@ h1.page-not-found-title {
     }
   }
   tbody {
-    background: color.adjust(variables.$dark, $lightness: 5);
+    background: color.adjust(variables.$dark, $lightness: 5%);
   }
 
   // blockquote style
